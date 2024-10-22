@@ -1,3 +1,3 @@
-<P> nama:Naufal yazid</P>
+<P> Nama: Naufal Yazid</P>
 
 
