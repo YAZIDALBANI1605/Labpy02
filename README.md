@@ -4,7 +4,7 @@
 
 
 ````python
-#!/usr/bin/python3
+
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")
 uas = input("Masukkan nilai UAS:")
@@ -28,6 +28,7 @@ print("Nilai Tugas :",tugas)
 print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
+
 ```
 
 
