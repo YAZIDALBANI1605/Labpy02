@@ -2,7 +2,9 @@
 <P> NIM: 312410279</P>
 <P> KELAS: TI.24.A.4</P>
 
+
 ````python
+#!/usr/bin/python3
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")
 uas = input("Masukkan nilai UAS:")
@@ -27,7 +29,6 @@ print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
 ```
-
 
 
 
