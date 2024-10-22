@@ -26,7 +26,6 @@ print("Nilai Tugas :",tugas)
 print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
-
 ```
 
 
