@@ -30,12 +30,18 @@ print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
 ```
+```python
+nama = input("Masukkan nama:")
+uts = input("Masukkan nilai UTS:")
+uas = input("Masukkan nilai UAS:")
+tugas = input("Masukkan nilai Tugas:")
+````
+fungsi `input()` digunakan untuk memasukkan data atau informasi ke dalam sistem atau program komputer, 
 
-
-
-   
-a atau informasi ke dalam sistem atau program komputer, sedangkan perangkat output digunakan untuk menampilkan hasil dari proses yang telah dilakukan oleh sistem atau program komputer.
-
+```python
+akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uas) * .4)
+````
+Fungsi dari integer dalam pemrograman adalah untuk merepresentasikan nilai bilangan bulat, baik positif maupun negatif, serta nol. Integer biasanya digunakan dalam operasi matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
 
 
