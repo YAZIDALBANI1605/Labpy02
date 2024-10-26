@@ -1,8 +1,8 @@
-<P> NAMA: Naufal Yazid</P>
-<P> NIM: 312410279</P>
-<P> KELAS: TI.24.A.4</P>
+## NAMA: Naufal Yazid
+## NIM: 312410279
+## KELAS: TI.24.A.4
 
-
+## MENENTUKAN NILAI AHKIR
 ````PYTHON
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")
