@@ -343,7 +343,36 @@ if operator == '+':
 Jika operator (+), maka hasil tersbur inputan variable angka1 ditambahkan angka2, dan Output akan mengeluarkan hasil program tersebut, Hingga seterusnya dengan (*) perkalian, dan (-) perkurangan
 
 ```python
-
+elif operator == '/':
+    if angka2 != 0:
+        hasil = angka1 / angka2
+        print(f"Hasil pembagian: {hasil}")
+    else:
+        print("Error: Pembagian dengan nol tidak diperbolehkan.")
 ````
+Jika oprator (/), maka Inputan Variable angka1 dibagi angka2, dan dicetak semestinya, untuk desision (angka2 !=0:) tidak diperkenankan oleh program, karna output yang keluar "Error: Pembagian dengan nol tidak diperbolehkan"
+
+```python
+else:
+    print("Error: Operator tidak valid. Silakan gunakan +, -, *, atau /.")
+````
+saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini Output yang keluar "Error: Operator tidak valid. Silakan gunakan +, -, *, atau /."
+
+dan ini hasil program tersebut:
+
+![Screenshot 2024-10-26 203825](https://github.com/user-attachments/assets/1f2cbc43-4e37-4403-ac35-c1c127ba543b)
+
+Eksekusi program tersebut:
+
+![Screenshot 2024-10-26 201617](https://github.com/user-attachments/assets/034d2078-f2ea-4879-946e-885b00484e29)
+
+dan flowchartnya
+
+
+![Screenshot 2024-10-26 204442](https://github.com/user-attachments/assets/94b3f701-54fe-4e56-bf46-2354363fcfc2)
+
+
+
+
 
 
