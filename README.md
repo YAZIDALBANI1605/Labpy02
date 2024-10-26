@@ -273,19 +273,14 @@ jika menginputkan selain (ya/tidak) output yang keluar "Harga tidak dapat dihitu
 
 Dan ini hasil program tersebut:
 
-```python
 
 ![Screenshot 2024-10-26 193806](https://github.com/user-attachments/assets/774c9aae-c360-47c0-b1a6-f3632ebd9a1d)
 
-````
 
 Eksekusi dari program tersebut:
 
-```python
-
 ![Screenshot 2024-10-26 193938](https://github.com/user-attachments/assets/e8bd719d-2257-4207-b775-91fc60ea31c9)
 
-````
 
 Dan flowchartnya:
 
