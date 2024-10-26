@@ -333,6 +333,17 @@ operator = input("Masukkan operator (+, -, *, /): ")
 angka2 = float(input("Masukkan angka kedua: "))
 
 ````
-fungsi yang digunakan dalam inputan ini menggunakan float mengubah nilai menjadi angka floating point, yaitu angka desimal atau pecahan, dan variable operator yang menginputkan suatu operator fungsi berupa (+, -, *, /) yang artinya pertambahan, perkurang, perkali, pembagian.
+fungsi yang digunakan dalam inputan ini menggunakan `float` mengubah nilai menjadi angka floating point, yaitu angka desimal atau pecahan, dan variable operator yang menginputkan suatu operator fungsi berupa `(+, -, *, /)` yang artinya pertambahan, perkurang, perkali, pembagian.
+
+```python
+if operator == '+':
+    hasil = angka1 + angka2
+    print(f"Hasil penjumlahan: {hasil}")
+````
+Jika operator (+), maka hasil tersbur inputan variable angka1 ditambahkan angka2, dan Output akan mengeluarkan hasil program tersebut, Hingga seterusnya dengan (*) perkalian, dan (-) perkurangan
+
+```python
+
+````
 
 
