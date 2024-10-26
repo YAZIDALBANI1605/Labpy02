@@ -115,6 +115,22 @@ else:
     print ("Gaji belum UMR")
 ````
 
+struktur ini menggunakan kondisi `if`, `elif`, dan `else`
+
+```python
+gaji = int(input("Masukkan gaji:"))
+````
+inputan ini akan memasukan angka gaji,karena memiliki fungsi `int`
+
+```python
+berkeluarga = (False, True)[input("Sudah berkeluarga? (Y/T)") == "Y"]
+punya_rumah = (False, True)[input("Punya rumah? (Y/T)") == "Y"]
+````
+inputan ini menggunakan fungsi `string` yang di masukan berupa huruf,dan `(false,true) ini adalah fungsi pemilihan Ya atau Tidak,agar tidak meggunakan `if` di lanjutan program tersebut
+
+```python
+````
+
 
 
 
