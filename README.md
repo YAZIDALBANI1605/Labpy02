@@ -197,15 +197,15 @@ member dari user, lalu menghitung total harga yang harus dibayar.
 Petunjuk:
 
     ● Gunakan if else dan operator ternary.
-
-    ```python
-    harga_reguler = 50000
+    
+```python
+harga_reguler = 50000
 harga_vip = 100000
 
 tipe_tiket = (input("Masukkan tipe tiket (reguler/VIP): "))
 status_member = (input("Apakah Anda memiliki kartu member? (ya/tidak): "))
 
-# Menghitung total harga
+ Menghitung total harga
 if tipe_tiket == "reguler":
     total_harga = harga_reguler
 elif tipe_tiket == "vip":
@@ -214,7 +214,7 @@ else:
     print("Tipe tiket tidak valid.")
     exit()
 
-# Menghitung diskon jika pengguna memiliki kartu member
+ Menghitung diskon jika pengguna memiliki kartu member
 
 
 if status_member == "ya":
@@ -226,4 +226,4 @@ elif status_member == "tidak":
             print(f"total harga yang harua dibayar: Rp{total_harga:.2f}")
 else:
     print("Harga tidak dapat dihitung.")
-    ````
+ ````
